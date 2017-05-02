@@ -6,7 +6,7 @@ void setup() {
   Serial.begin(115200);
   for(int i=0; i<8; i++)
   {
-    mled.disBuffer[i]=0xff;  //full
+    mled.disBuffer[i]=0xff;  //full screen
   }
   
   

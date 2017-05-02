@@ -6,25 +6,22 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Motor	KEYWORD1
+MLED	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-setfreq	KEYWORD2
-setmotor	KEYWORD2
+display	KEYWORD2
+clear	KEYWORD2
+dot	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
 
-_SHORT_BRAKE	LITERAL1
-_CCW	LITERAL1
-_CW	LITERAL1
-_STOP	LITERAL1
-_STANDBY	LITERAL1
-_MOTOR_A	LITERAL1
-_MOTOR_B	LITERAL1
+disBuffer	LITERAL1
+intensity	LITERAL1
+
 
 
